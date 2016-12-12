@@ -1,5 +1,5 @@
 
-import XLSX from 'xlsx';
+import XLSX from 'xlsx-style-browserify';
 import {buildSheetFromMatrix, isString} from './helpers';
 import Workbook from './workbook';
 
